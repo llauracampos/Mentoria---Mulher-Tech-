@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+
+*{
+  font-family:Quattrocento;
+}
+
+.caixa{
+  width: 591px;
+  min-height: 307px;
+  background: #FFFFFF;
+  border: 0.5px solid rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+}
+
+.caixa .elementos{
+  margin-left:43px;
+  margin-top:42px;
+  margin-bottom:42px;
+  /*border:1px red solid;*/
+  width: 506.4px;
+  min-height: 227px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-between;
+}
+
+.caixa .elementos h1{
+  margin-top:0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 46px;
+}
+
+.caixa .elementos input{
+  width: 496.2px;
+  height: 45.25px;
+  background: #F0F0F5;
+  border: none;
+  border-radius: 8px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+  padding-left:10px;
+}
+
+.caixa .elementos p{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #A0A0B2;
+}
+
+.caixa .elementos #termos{
+  font-weight: 700; 
+  color:#000000;
+  cursor:pointer;
+}
+
+.caixa .elementos button{
+  width: 506.2px;
+  height: 56px;
+  background: #000000;
+  border:none;
+  border-radius: 8px;
+  color:#FFFFFF;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+  cursor:pointer;
+}
+
+.caixa .elementos #texto-extensao{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: justify;
+  color: #A0A0B2;
+}
