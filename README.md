@@ -1,7 +1,7 @@
 # Mentoria-Mulher-Tech
 Projeto desenvolvido para a mentoria intitulada "Como dar os primeiros passos com ReactJS" para a segunda edição do Mulher Tech Sim Senhor de 2022.
 
-• Link para o Figma: https://www.figma.com/file/Fi8siQ0hmPC8tIu6TtlJ4w/Untitled-(Copy)?node-id=0%3A1
+• Link para o Figma: https://www.figma.com/file/Fi8siQ0hmPC8tIu6TtlJ4w/Dock-%2B-Mulher-Tech
 
 • Link para guisa sobre medidas: https://www.alura.com.br/artigos/guia-de-unidades-no-css
 
